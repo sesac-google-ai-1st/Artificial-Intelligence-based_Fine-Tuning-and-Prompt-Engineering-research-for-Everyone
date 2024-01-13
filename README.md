@@ -28,3 +28,23 @@ LLM engineering : 최완규
 팀원 : 류지호
 
 </aside>
+
+
+1.어린왕자의 별에 바보밥나무 수가 너무 많아지면 별은 어떻게 되나요?
+What happens to the little prince's star if there are too many baobabs?
+
+
+2. 미국이 정오일때 프랑스는 해가 지나요?
+Does the sun go down in France when it's noon in America?
+
+
+3. 어린왕자의 별에는 호랑이가 있나요?
+Is there a tiger on the star of the little prince?
+
+
+4. 어린왕자는 아침식사를 데우는데 무엇이 필요했나요?
+What did the little prince need to heat up his breakfast?
+
+
+5. 어린왕자의 별에 장미는 가시가 몇 개 있었나요?
+How many spines were there on the rose in the Little Prince's star?
